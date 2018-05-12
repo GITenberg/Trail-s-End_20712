@@ -1,0 +1,45 @@
+_repo: Trail-s-End_20712
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ivory, P. V. E.
+    aliases:
+    - Ivory, P. V. E. (Percy van Eman)
+    - Ivory, P. Van E.
+    - Ivory, P.V.E.
+    - Ivory, Percy Van Eman
+    birthdate: 1883
+    deathdate: 1960
+    gutenberg_agent_id: '32357'
+    url: http://www.gutenberg.org/2009/agents/32357
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ogden, George W. (George Washington)
+    aliases:
+    - Ogden, George Washington
+    - Ogden, G. W. (George Washington)
+    birthdate: 1871
+    deathdate: 1966
+    gutenberg_agent_id: '9477'
+    url: http://www.gutenberg.org/2009/agents/9477
+description: Ascalon was the end of the trail for thirsty cowboys who gave vent to
+  their pent-up feelings without restraint. Calvin Morgan was not concerned with its
+  wickedness until Seth Craddock's malevolence directed itself against him. Now he
+  is determined not to emerge from the maelstrom until he has obliterated every vestige
+  of lawlessness -- and assured himself of the safety of a certain dark-eyed girl.
+gutenberg_issued: '2007-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20712'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: Trail's End
+url: http://www.gutenberg.org/ebooks/20712
